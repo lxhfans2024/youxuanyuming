@@ -62,9 +62,6 @@ if __name__ == "__main__":
     subdomain_ip_mapping = {
         #'bestcf': 'https://ipdb.030101.xyz/api/bestcf.txt',
         'api': 'https://raw.githubusercontent.com/lxhfans2024/youxuanyuming/refs/heads/main/ip.txt',
-        'aaa': 'https://raw.githubusercontent.com/lxhfans2024/youxuanyuming/refs/heads/main/ip.txt',
-        'bbb': 'https://raw.githubusercontent.com/lxhfans2024/youxuanyuming/refs/heads/main/ip.txt',
-        'ccc': 'https://raw.githubusercontent.com/lxhfans2024/youxuanyuming/refs/heads/main/ip.txt',
         # 添加更多子域名和对应的IP列表URL
     }
     
